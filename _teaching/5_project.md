@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Morphing Airfoil/Wing
+title: Teaching 2
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: work
+category: category2
 ---
 
 Every project has a beautiful feature showcase page.
