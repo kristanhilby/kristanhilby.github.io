@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: Stop-Rotor Aircraft
 description: a project with no image
 img:
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
