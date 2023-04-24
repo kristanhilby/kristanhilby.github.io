@@ -1,7 +1,7 @@
 ---
 layout: page
-title: American University of Bahrain (AUBH)
-description: Visiting Instructor
+title: 6.9970 Academic Job Search
+description: Course Aide
 img: assets/img/12.jpg
 importance: 1
 category: Prior Teaching Experience
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/MAX_2402.jpg
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
