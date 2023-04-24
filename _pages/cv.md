@@ -6,4 +6,5 @@ nav: true
 nav_order: 4
 cv_pdf: Kristan_Hilby_ResumeDos_Truncated.pdf
 ---
-<iframe width="100%" height="2950" src="../assets/pdf/Kristan_Hilby_ResumeDos_Truncated.pdf">
+<object data="../assets/pdf/Kristan_Hilby_ResumeDos_Truncated.pdf" width="1000" height="3750" type='application/pdf'></object>
+
