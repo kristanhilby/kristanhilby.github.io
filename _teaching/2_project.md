@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching 1
+title: Teaching 2
 description: This work was performed while I was an undergraduate researcher in Darren Lipomi's lab at the University of California, San Diego and was performed under Mohammed Alkhadra. 
 img: assets/img/12.jpg
 importance: 1
