@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -104,7 +104,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  I am always happy to chat! Feel free to reach out anytime.
+  I am always happy to chat! Feel free to reach out anytime if you have any questions, want to talk about ideas or collaboration, or just want to say hi.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

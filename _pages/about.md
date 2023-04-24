@@ -24,6 +24,3 @@ Though this is a specific application of soft robotics to enhance the performanc
 In addition to my research interests, I have a deep passion for teaching, mentorship, and engineering leadership. Teaching and mentorship provide not only the opportunity to open up a new world to the next generation of students, but it also provides me with the opportunity to constantly learn. Engineering leadership, in my own education, has taught me how to share and disseminate information, understand how to navigate and promote diverse teams, and manage conflict in a team. I am of the belief that engineering leadership is one of the most necessary, and currently underutilized, tool in the engineer's toolbox. 
 
 Explore my website to learn more about my research, teaching, and mentorship experiences!
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
