@@ -6,3 +6,5 @@ nav: true
 nav_order: 4
 cv_pdf: Kristan_Hilby_ResumeDos_Truncated.pdf
 ---
+
+<embed src="/assets/pdf/Kristan_Hilby_ResumeDos_Truncated.pdf">
