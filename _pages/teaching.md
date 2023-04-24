@@ -5,7 +5,7 @@ permalink: /teaching/
 description: The following page includes some of my prior experiences teaching, as well as topics I am passionate about and would like to teach.
 nav: true
 nav_order: 2
-display_categories: [category1, category2]
+display_categories: [Prior Teaching Experience, category2]
 horizontal: false
 ---
 

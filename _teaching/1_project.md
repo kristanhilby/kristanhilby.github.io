@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Teaching 1
-description: This work was performed while I was an undergraduate researcher in Darren Lipomi's lab at the University of California, San Diego and was performed under Mohammed Alkhadra. 
+title: American University of Bahrain (AUBH)
+description: Visiting Instructor
 img: assets/img/12.jpg
 importance: 1
-category: category1
+category: Prior Teaching Experience
 ---
 
 Every project has a beautiful feature showcase page.
