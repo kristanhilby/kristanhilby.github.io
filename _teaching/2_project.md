@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Riffa Views International School (RVIS)
-description: Visitng Instructor 
+description: Visiting Instructor 
 img: assets/img/12.jpg
 importance: 1
 category: Prior Teaching Experience

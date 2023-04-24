@@ -2,7 +2,7 @@
 layout: page
 title: American University of Bahrain (AUBH)
 description: Visiting Instructor
-img: assets/img/12.jpg
+img: assets/img/MAX_2402.jpg
 importance: 1
 category: Prior Teaching Experience
 ---
