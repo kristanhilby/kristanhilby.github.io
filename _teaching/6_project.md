@@ -2,7 +2,7 @@
 layout: page
 title: 2.131 Advanced Instrumentation and Measurement
 description: Teaching Assitant (MIT)
-img: assets/img/12.jpg
+img: assets/img/2131_CourseDetails.png
 importance: 1
 category: Prior Teaching Experience
 ---
