@@ -15,3 +15,7 @@ A Renaissance engineer is typically
 This course is designed to help engineering students and professionals develop a well-rounded set of skills and knowledge beyond technical expertise. Participants will explore the concept of  Through interactive lectures, case studies, and hands-on exercises, participants will learn how to become a Renaissance engineer and succeed in today's complex and rapidly changing world.
 
 ### Proposed Content
+
+### Proposed Reading Material
+
+### Relevant Experience

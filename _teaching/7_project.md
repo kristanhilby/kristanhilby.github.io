@@ -27,6 +27,7 @@ Throughout the course, participants would engage with case studies, group discus
 
 ### Proposed Reading Material
 
+The following readings are propose for augmenting class discussions and learning: 
 1. "Difficult Conversations: How to Discuss What Matters Most" by Douglas Stone, Bruce Patton, and Sheila Heen
 2. "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 3. "How to Win Friends and Influence People" by Dale Carnegie
