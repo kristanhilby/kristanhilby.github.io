@@ -1,80 +1,37 @@
 ---
 layout: page
 title: Communication for Technical Leaders
-description: a project with a background image
+description: A course that aims to empower the next generation of leaders to communicate with clarity, confidence, and impact.
 img: assets/img/1.jpg
 importance: 3
 category: Proposed Coursework
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Course Motivation
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In my experience, one of the most undersold skills of an engineer is the ability to communicate. From conveying complex ideas to a wide range of audiences, to effectively managing and dealing with conflict on a team, without effective communication skills, even the most talented engineers can struggle to make an impact. My aim with this course is to inform about the power communication has to make a personal and technical difference in the world. It is about building bridges, forging connections, and making an impact. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Proposed Content
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The proposed course, "Communication for Technical Leaders", aims to empower the next generation of leaders to communicate with clarity, confidence, and impact. To do so, the following topics are proposed:
+1. Understanding the role of communication in leadership
+2. Methods for effectively communicating and listening
+3. Delivering engaging presentations
+4. Delivering and receiving feedback
+5. Writing for different audiences
+6. Difficult conversations
+7. Communication with virtual teams
+8. How to influence
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Throughout the course, participants would engage with case studies, group discussions, role-playing exercises, and reflective writing assignments to gain more insight into past, present, and future communication situations. 
 
+### Proposed Reading Material
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. "Difficult Conversations: How to Discuss What Matters Most" by Douglas Stone, Bruce Patton, and Sheila Heen
+2. "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+3. "How to Win Friends and Influence People" by Dale Carnegie
+4. "The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism" by Olivia Fox Cabane
+5. "The Power of Body Language: How to Succeed in Every Business and Social Encounter" by Tonya Reiman
 
+### Relevant Experience
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
