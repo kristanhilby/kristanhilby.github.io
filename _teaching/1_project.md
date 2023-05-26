@@ -7,66 +7,15 @@ importance: 1
 category: Prior Teaching Experience
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Course Description
+At the American University of Bahrain (AUBH), I taught a two week workshop titled "Robotics from Scratch" to 25 college level students (freshman to senior). 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Personal Contributions
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+### Student Feedback
+> "The instructors were truly kind and inspiring, imparting their knowledge and expertise with us in a way that made the learning experience both engaging and impactful. Their passion for Robotics and Machine Learning was contagious, and I came away from this workshop with a newfound appreciation for these fields... To my instructors, thank you for your unwavering support and guidance. Your impact on us was truly transformative, and I am forever in your debt." -[Maitham Jasim](https://www.linkedin.com/feed/update/urn:li:activity:7027038300141957121?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7027038300141957121%29)
 
+> "It was an honor to work with brilliant people and learn from MIT students about various topics including #robotics, #3dprinting, and #arduino programming...Special thanks to the wonderful instructors which I was honored to know and learn from" -[Adnan Mohamed](https://www.linkedin.com/posts/adnan-h-mohamed_robotics-3dprinting-arduino-activity-7027509312793026560-qsOA?utm_source=share&utm_medium=member_desktop)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+> "One of the most exciting aspects of the workshop was the hands-on experience with the robot arms. We had the opportunity to program them to perform a variety of tasks, from simple movements to more complex operations like object recognition and manipulation. This workshop has further fueled my passion for robotics and technology. I am grateful to MIT and the American University of Bahrain for this amazing opportunity" -[Ebrahim Almalki](https://www.linkedin.com/posts/ebrahim-almalki-13900020b_technology-learning-experience-activity-7028240519751188480-MrvC?utm_source=share&utm_medium=member_desktop) 

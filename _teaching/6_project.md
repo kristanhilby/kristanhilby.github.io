@@ -21,3 +21,12 @@ As a TA for the course, I was responsible for the following:
 3. Guidance and methorship on course projects 
 4. Organizing course logistics including grading, purchasing, preparation of remote learning kits, maintenance of course website
 5. Management of personal and interpersonal issues within teams 
+
+### Student Feedback
+> "Amazing TA who is very dedicated to helping students learn and is very accommodating" - Student 22248
+
+> "Kristan was an excellent TA. She was approachable, responsive and helpful, and she managed the logistics of the class deftly" - Student 32951
+
+> "Kristan was incredibly helpful and worked hard to make this class and the final projects happen... Thanks!" - Student 33016
+
+> "Kristan is very organized, approachable, and responsive to questions and requests" - Student 44199
