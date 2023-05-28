@@ -76,3 +76,9 @@ The actuator characterization apparatus consisted of one segement for isometric 
 ##### Working Principle
 
 ##### Apparatus Instrumentation
+
+<h4 style="text-align: center;">4. Cooking Method Efficacy</h4>
+
+##### Working Principle
+
+##### Apparatus Instrumentation
