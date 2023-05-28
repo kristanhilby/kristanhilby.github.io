@@ -2,7 +2,7 @@
 layout: page
 title: MICA Initiative
 description: Measurement Instrumentation Control and Analysis
-img: assets/img/1.jpg
+img: assets/img/MICA/revfc_render.png
 importance: 3
 category: Prior Teaching Experience
 ---
@@ -25,7 +25,7 @@ I have personally worked to develop the following MICA setups:
 
 <div class="d-flex justify-content-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MICA/revfc_render.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MICA/revfc_render.png" title="revfc_apparatus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ This apparatus includes a PEM that utilizes the following electrolysis reaction 
 
 <div class="d-flex justify-content-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MICA/electrolysis.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MICA/electrolysis.png" title="electrolysis_reaction" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,9 +55,24 @@ The apparatus is also equipped with a [Tinkerforge DC Brick](https://www.tinkerf
 
 <h4 style="text-align: center;">2. Actuator Characterization</h4>
 
-
 ##### Working Principle
+Quantitative and qualitative characterization of an actuator is crucial to the widespread adoption. Tests can be broken down into two types: isotonic tests, where the actuator moves under some tension, and isometric, where the actuator is held at a constant length. The isotonic metrics of interest are elongation or contraction percentage, work density, power density, and bandwidth. The main isometric parameter of interest include maximum force output for a given displacement. These parameters collectively give a designer information about whether or not an actuator will work for their system.  
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MICA/IMG_3989.jpg" title="actuator_characterization" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Actuator Characterization Apparatus.
+</div>
+
+##### Apparatus Instrumentation
+
+The actuator characterization apparatus consisted of one segement for isometric tests and one section for isotonic tests. In the isotonic tests, a linear variable differential transformer is used to capture displacement, a load cell captures the force exerted by the actuator, and the energy consumption of the actuator is recorded through the duration of the experiment. For isometric testing, the actuator is connected on one end of a linear actuator to modulate the length of the isometric tests and the other end to a load cell to measure the force output after actuation.  
 
 <h4 style="text-align: center;">3. Doppler Effects</h4>
 
 ##### Working Principle
+
+##### Apparatus Instrumentation
