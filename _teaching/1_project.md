@@ -32,21 +32,22 @@ During this lecture, students formed groups and rapidly prototyped ideas for rob
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1449.jpg" title="team1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1448.jpg" title="team2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1443.jpg" title="team3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/AUBH/lecture1/IMG_1446.jpg" title="team3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1443.jpg" title="team5" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1448.jpg" title="team3" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/AUBH/lecture1/IMG_1449.jpg" title="team3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Initial prototypes from each of the teams for their robotic arms, made during the first lecture.
 </div>
+
 
 ##### **Lecture 2. Introduction to CAD Assemblies and Laser Machining** {#lect2_aubh} 
 
