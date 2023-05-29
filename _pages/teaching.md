@@ -2,10 +2,10 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: One of my greatest passions in life is teaching and working with people. I have had the opportunity to teach under various settings and platforms to people ranging in age from freshman in high school to seniors in college. The following page includes some of my prior experiences teaching, as well as topics I am passionate about and courses I would like to launch.
+description: One of my greatest passions in life is teaching and working with people. I have had the opportunity to teach under various settings and platforms to people ranging in age from freshman in high school to seniors in college. The following page includes some of my prior experiences teaching, topics I am passionate about and courses I would like to launch,  as well as a few existing courses I would be able to teach.
 nav: true
 nav_order: 2
-display_categories: [Prior Teaching Experience, Proposed Coursework]
+display_categories: [Prior Teaching Experience, Proposed Coursework, Potential Courses]
 horizontal: false
 ---
 
