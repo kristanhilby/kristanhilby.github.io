@@ -10,10 +10,17 @@ category: Prior Teaching Experience
 1. [Course Overview & Description](#cod_rvis)
    * [Lecture 1](#lect1_rvis)
    * [Lecture 2](#lect2_rvis)
+   * [Lecture 3](#lect3_rvis)
+   * [Lecture 4](#lect4_rvis)
+   * [Lecture 5](#lect5_rvis)
+   * [Lecture 6](#lect6_rvis)
+   * [Lecture 7 - 9](#lect79_rvis)
+   * [Lecture 10](#lect10_rvis)
 2. [Personal Contributions](#pcontr_rvis)
 3. [Feedback](#fdbk_rvis)
 
 <h4 id="cod_rvis" style="text-align: center;">Course Overview & Description</h4>
+
 At the Riffa Views International School (RVIS), I taught a two week course titled "Introduction to Prototyping and Robotics" to 20 students, ranging from freshman to seniors in high school. During the course, students experienced a range of activities to give them hands on experience with prototyping and elctronics, culminating in the fabrication of a robotic arm. The course was broken down into the following lectures:
 
 ##### **Lecture 1. Introduction to Computer Aided Design (CAD)** {#lect1_rvis} 
@@ -44,7 +51,7 @@ In the second lecture, students finished the introduction to CAD section learnin
     </div>
 </div>
 <div class="caption">
-    Overview of the CAD assemblies lecture. 
+    Overview of the prototyping lecture. 
 </div>
 
 To apply the skills they learned, students were put into new groups and were tasked with ideating and creating a platform that rolls down a platform carrying a bottle of water and can withstand a drop test. They were given guidance on performing short bursts of prototyping sessions. 
@@ -52,25 +59,93 @@ To apply the skills they learned, students were put into new groups and were tas
 ##### **Lecture 3. Introduction to Laser Machining** {#lect3_rvis} 
 During this lectures, students learned the principle of laser machining, and were introduced to using the laser cutter safely in the lab space. To apply their knowledge students continued working on the rolling platform prototype from the last class, not including one laser cut parts. 
 
+<div class="d-flex justify-content-center">
+    <div class="col-sm-7 mt-7 mt-md-0">
+        {% include figure.html path="assets/img/RVIS/lecture2/cars.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of the developed rolling platform prototypes. 
+</div>
+
 ##### **Lecture 4. Introduction to 3D Printing** {#lect4_rvis} 
-During this lecture, students learned the principle of 3D printing, how to design for 3D printed parts, and how to the printers in lab to further refine their rolling platform prototypes.
+During this lecture, students learned the principle of 3D printing, how to design for 3D printed parts, and how to the printers in lab to further refine their rolling platform prototypes. During this class, students needed to prepare their platforms for a competition by showing they could survive a drop test. 
 
-##### **Lecture 5. Conclusion to Prototyping** {#lect5_rvis} 
+<div align="center">
+<iframe src="https://www.youtube.com/embed/knnypfnEPiM?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=1&autoplay=1"  width="315" height="560"  frameborder="0" allowfullscreen></iframe>
 
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/Bhh89lDGy9w"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
+<iframe src="https://www.youtube.com/embed/fAT-YgG7hgY?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=1&autoplay=1"  width="315" height="560"  frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Students perform a drop test on their rolling platforms. 
 </div>
 
 
-<image src="assets/img/RVIS/lecture5/race.gif" alt="race" width="450" /> 
+##### **Lecture 5. Conclusion to Prototyping** {#lect5_rvis} 
 
-![Alt Text](assets/img/RVIS/lecture5/race.gif)
+On day five, the student's prototypes were put to the test through a race against other teams. The cars raced against one another to the finish line.  
+
+<div align="center">
+<iframe src="https://www.youtube.com/embed/Bhh89lDGy9w?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"  width="560" height="315"  frameborder="0" allowfullscreen></iframe>
+</div>
+
+##### **Lecture 6. Introduction to Electronics** {#lect6_rvis} 
+
+On day six, students learned a brief introduction to electronics and Arduino. From there, they were assigned to teams based on prior experience and learned how to use either a servo, potentiometer, or color sensor. Once they are able to operate different electronics, the students were assigned to teams to code an automatic, color-based ball sorter.
+
+<div align="center">
+<iframe src="https://www.youtube.com/embed/rL40gpbf-n8?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=1&autoplay=1"  width="315" height="560"  frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Students perform a drop test on their rolling platforms. 
+</div>
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm-7 mt-7 mt-md-0">
+        {% include figure.html path="assets/img/MISTI-Day-6-04887.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Showing students how to use and code the servo motors. 
+</div>
+
+##### **Lecture 7 - 9. Concept Integration** {#lect79_rvis} 
+
+After learning about Arduino and electronics, students worked to integrate all their skills (prototyping with laser cutter and 3D printers, CAD, and electronics) to build and control the following robot manipulator:
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm-7 mt-7 mt-md-0">
+        {% include figure.html path="assets/img/RVIS/overview/overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of the robotic arm the students fabricated and assembled. 
+</div>
+
+##### **Lecture 10. Showcase and Competition** {#lect10_rvis} 
+
+During the final lecture, the class was opened up to the greater community to observe the achievements of the students and watch as the different teams competed to use their fabricated arms to throw a ball. 
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm-7 mt-7 mt-md-0">
+        {% include figure.html path="assets/img/RVIS/competition/MAX_2117.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The students line up to begin the ball throwing competition. 
+</div>
+
+<div class="row">
+    <div class="col-sm mt-7 mt-md-0">
+        {% include figure.html path="assets/img/MISTI-Day-10-05749.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MISTI-Day-10-06012.jpg" title="team1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Final words to the greater community (left) and the students (right) during the final lecture
+</div>
 
 <h4 id="pcontr_rvis" style="text-align: center;">Personal Contributions</h4>
 
@@ -80,5 +155,3 @@ During this lecture, students learned the principle of 3D printing, how to desig
 > "The program brought cutting edge robotics to Bahrain and is part of MIT’s global outreach program, the first of its kind in the GCC region!" -[The Bahrain School](https://www.linkedin.com/posts/the-bahrain-school_usainbahrain-mittechnology-mit-activity-7021072572750409728-KWNk?utm_source=share&utm_medium=member_desktop)
 
 > "This workshop has renewed my interest in engineering... My time in the workshop has been a great experience and something I will always remember." -[Duaji, student](https://www.linkedin.com/pulse/rvis-massachusetts-institute-technology-mit-host-successful-wehbe/?trackingId=Ro0xORg%2BTxOk8zTJlCu49w%3D%3D) 
-
-### Header Test {#custom-id}
