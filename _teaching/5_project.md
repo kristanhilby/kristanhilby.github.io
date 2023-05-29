@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Leading Diverse Teams
-description: A course meant to equip the next generation of technical leaders for understandiing, fostering, and harnessing the power of diverse teams
-img: assets/img/Shutterstock_1927342577.jpg
+description: A course aimed to equip the next generation of technical leaders for understandiing, fostering, and harnessing the power of diverse teams
 importance: 3
 category: Proposed Coursework
 ---

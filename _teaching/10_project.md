@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Machine Learning System Dynamics
-description: a project with a background image
-img: assets/img/1.jpg
+description: A course aimed at teaching various methods for deriving system dynamics, with a special emphasis on machine learning methods
 importance: 3
 category: Proposed Coursework
 ---
@@ -22,4 +21,4 @@ The proposed course, "Machine Learning System Dynamics", aims to provide student
 Throughout the course, participants will learn the theory of system modeling and various methods for deriving a system model. Students will also work on a course project in which they need to utilize machine learning reduced order methods for modeling a system. 
 
 ### Relevant Experience
-As part of my PhD, I extended a reduced order machine learning method based on the optimization of an augmented lagrangian with dissipation terms. This project is covered in more depth on the project page HERE.  
+As part of my PhD, I extended a reduced order machine learning method based on the optimization of an augmented lagrangian with dissipation terms. This project is covered in more depth on the project page [HERE]().  

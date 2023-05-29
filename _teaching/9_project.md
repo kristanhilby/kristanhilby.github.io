@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Collaborative Negotiation
-description: a project with a background image
-img: assets/img/1.jpg
+description: A course aimed at teaching negotiation skills for yielding the best results
 importance: 3
 category: Proposed Coursework
 ---

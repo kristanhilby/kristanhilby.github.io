@@ -7,7 +7,16 @@ importance: 3
 category: Prior Teaching Experience
 ---
 
-### Description
+[Description](#descript_mica)
+
+[Personal Contributions](#percont_2131)
+* [PEM Reversible Fuel Cell](#mica_PEM)
+* [Actuator Characterization](#mica_actuator)
+* [Doppler Effect](#mica_doppler)
+* [Cooking Methods](#mica_cooking)
+
+<h4 id="descript_mica" style="text-align: center;"> Description</h4>
+
 > "MICA is an educational initiative that aims to bring low-cost, wireless sensors, generators and desktop robots into the hands of students. MICA focuses on hands-on, data-driven STEM education. Sophisticated enough for research, simple enough for kindergarten. 
 > 
 > The MICA Education Initiative aims to empower students of all ages by providing hands-on, data-driven STEM learning experiences. We harness the power of technology to improve student learning based on three core ideas. First, students are most engaged with their learning when they have a deep motivation for why a task is relevant. Second, "learning by doing" produces a much deeper and robust understanding than "learning by listening". Finally, measurement and quantification of physical phenomenon are essential for understanding how the world works.
@@ -18,10 +27,11 @@ category: Prior Teaching Experience
 
 The MICA initiative encompasses a standardized framework of instrumentation crafted to facilitate experiential learning across a multitude of principles. Within the academic context, MICA has been successfully employed in the instructional setting of the esteemed [2.131 Advanced Instrumentation and Measure]({% link _teaching/6_project.md %}) course at MIT, thereby affording students the invaluable prospect of acquiring knowledge through active participation and concurrently contributing to the advancement of the program itself.
 
-### Personal Contributions
+<h4 id="percont_2131" style="text-align: center;"> Personal Contributions</h4>
+
 I have personally worked to develop the following MICA setups:
 
-<h4 style="text-align: center;">1. Reversible Proton Exchange Membrane (PEM) Fuel Cell</h4>
+<h4 id="mica_PEM" style="text-align: center;">1. Reversible Proton Exchange Membrane (PEM) Fuel Cell</h4>
 
 <div class="d-flex justify-content-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -53,7 +63,7 @@ The developed apparatus demonstrates the capablity of a PEM to perform both the 
 
 Furthermore, the apparatus incorporates a [Tinkerforge DC Brick](https://www.tinkerforge.com/en/doc/Hardware/Bricks/DC_Brick.html), which enables the application of a variable direct current (DC) signal to the electrolyzer. To impliment a binary stochastic signal with the Tinkerforge DC Brick, the [Digilent Analog Discover 2](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjH5aXF75X_AhVb9OMHHWYoDtsYABARGgJ5bQ&ae=2&ohost=www.google.com&cid=CAESbOD2vrzUaQhsF1LI97cH3NzLZ00TRgDf413_UGx2yuKOYqv2oOC2RxBV62hCKHWS2-wjjPG582V6Kj-GMPOhGqBKx9OMbVw2NPa8ahJk9YkCdoO6Yq0MoCWDDh8Kv6UDTCLTpymtQ9tmXgrYpw&sig=AOD64_3yuIZFT9PVdJKlqDgUBjBc8W9N-w&q&adurl&ved=2ahUKEwjn9JbF75X_AhWJKlkFHbfVCxEQ0Qx6BAgHEAM&nis=2&dct=1) is included. Following the completion of the experimental tests, efficiency and polarization plots are generated to provide visual representations of the PEM's performance. Additionally, the binary stochastic signal is used to conduct system identification analysis on the polarization effects of the membrane. 
 
-<h4 style="text-align: center;">2. Actuator Characterization</h4>
+<h4 id="mica_actuator" style="text-align: center;">2. Actuator Characterization</h4>
 
 ##### Working Principle
 Actuator characterization plays a crucial role in assessing the suitability of actuators for specific applications and serves as a fundamental step towards their widespread implementation. Traditionally, actuator tests have been classified into two categories: isotonic tests, which involve the actuator moving under tension, and isometric tests, where the actuator is held at a constant length. Isotonic tests focus on evaluating metrics such as elongation or contraction percentage, work density, power density, and bandwidth. Conversely, the main parameter of interest in isometric tests is the maximum force output achievable at a given displacement. These quantifiable parameters collectively provide designers with valuable insights into the compatibility of an actuator with their specific system, enabling them to make informed decisions regarding its appropriateness and functionality.
@@ -73,7 +83,7 @@ The actuator characterization apparatus enables the execution of both isometric 
 
 For isometric testing, the actuator is connected at one end of a linear actuator to regulate the length during the isometric tests. The other end of the linear actuator is linked to a load cell, which accurately measures the force output after the actuator has been activated. This comprehensive setup ensures precise measurements and data acquisition, enabling a thorough evaluation of the actuator's performance under both isometric and isotonic conditions.
 
-<h4 style="text-align: center;">3. Doppler Effects</h4>
+<h4 id="mica_doppler" style="text-align: center;">3. Doppler Effects</h4>
 
 ##### Working Principle
 Doppler shift, a fundamental concept in physics and wave phenomena, describes the alteration in the frequency or wavelength of a wave as observed by an observer in motion relative to the source of that wave. The Doppler effect manifests in everyday experiences, such as the change in pitch of a passing siren or the shifting colors of celestial objects. By understanding the principles of Doppler shift, scientists and researchers can extract valuable information about the velocity, direction, and properties of moving objects or phenomena. Doppler shift is characterized through the following equation: 
@@ -90,7 +100,7 @@ Doppler shift, a fundamental concept in physics and wave phenomena, describes th
 
 ##### Apparatus Instrumentation
 
-<h4 style="text-align: center;">4. Cooking Method Efficiency</h4>
+<h4 id="mica_cooking" style="text-align: center;">4. Cooking Method Efficiency</h4>
 
 ##### Working Principle
 

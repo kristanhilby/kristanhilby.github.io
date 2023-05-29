@@ -7,11 +7,17 @@ importance: 1
 category: Prior Teaching Experience
 ---
 
-### Course Description
+[Course Description](#descript_69970)
 
-The Academic Job Search class seeks to provide final year graduate students and post doctoral staff guidance through the academic job search and application process through lectures and peer review. Topics include CV, cover letter, research statement, teaching statement, diversity statement, interview and job talk, and post-offer negotiations. In addition to the course content, faculty panels on each of the topics were held, and an academic career fair is provided.  
+[Personal Contributions](#percont_69970)
 
-### Personal Contributions
+[Lessons Learned](#lesslearn_69970)
+
+<h4 id="descript_69970" style="text-align: center;">Course Description</h4>
+
+The Academic Job Search class seeks to provide final year graduate students and post doctoral staff guidance through the academic job search and application process through lectures and peer review. Topics include CV, cover letter, research statement, teaching statement, diversity statement, interview and job talk, and post-offer negotiations. In addition to the course content, faculty panels on each of the topics were held, and an academic career fair is provided. 
+
+<h4 id="percont_69970" style="text-align: center;">Personal Contributions</h4>
 
 As a course aide, I was responsible for: 
 1. Maintenance of the course website
@@ -22,3 +28,8 @@ As a course aide, I was responsible for:
    2. Scheduling over 50 one-on-one pre-interviews between course participants and faculty
    3. Scheduling school talks 
    4. Organization of the career day website
+
+<h4 id="lesslearn_69970" style="text-align: center;">Lessons Learned</h4>
+
+* Interacting with faculty
+* Course content

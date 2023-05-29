@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Renaissance Engineering in the Modern Era
-description: a project with a background image
-img: assets/img/1.jpg
+description: A course aimed at teaching the different thought process and tools for interdisciplinary engineering
 importance: 3
 category: Proposed Coursework
 ---

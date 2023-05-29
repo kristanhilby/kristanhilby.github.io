@@ -156,3 +156,5 @@ During the final lecture, the class was opened up to the greater community to ob
 > "The program brought cutting edge robotics to Bahrain and is part of MIT’s global outreach program, the first of its kind in the GCC region!" -[The Bahrain School](https://www.linkedin.com/posts/the-bahrain-school_usainbahrain-mittechnology-mit-activity-7021072572750409728-KWNk?utm_source=share&utm_medium=member_desktop)
 
 > "This workshop has renewed my interest in engineering... My time in the workshop has been a great experience and something I will always remember." -[Duaji, student](https://www.linkedin.com/pulse/rvis-massachusetts-institute-technology-mit-host-successful-wehbe/?trackingId=Ro0xORg%2BTxOk8zTJlCu49w%3D%3D) 
+
+<h4 id="overview_ch" style="text-align: center;">Lessons Learned</h4>
