@@ -10,4 +10,3 @@ category: Prior Teaching Experience
 ### Course Description
 
 
-### Personal Contributions

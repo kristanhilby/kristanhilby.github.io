@@ -51,7 +51,7 @@ In the second lecture, students finished the introduction to CAD section learnin
     </div>
 </div>
 <div class="caption">
-    Overview of the prototyping lecture. 
+    Prototyping workflow used to guide each prototyping cycle in the class. 
 </div>
 
 To apply the skills they learned, students were put into new groups and were tasked with ideating and creating a platform that rolls down a platform carrying a bottle of water and can withstand a drop test. They were given guidance on performing short bursts of prototyping sessions. 
@@ -65,7 +65,7 @@ During this lectures, students learned the principle of laser machining, and wer
     </div>
 </div>
 <div class="caption">
-    Overview of the developed rolling platform prototypes. 
+    Rolling platform prototypes developed by the students. 
 </div>
 
 ##### **Lecture 4. Introduction to 3D Printing** {#lect4_rvis} 
@@ -77,27 +77,30 @@ During this lecture, students learned the principle of 3D printing, how to desig
 <iframe src="https://www.youtube.com/embed/fAT-YgG7hgY?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=1&autoplay=1"  width="315" height="560"  frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Students perform a drop test on their rolling platforms. 
+    Students perform drop tests on their rolling platforms. 
 </div>
 
 
 ##### **Lecture 5. Conclusion to Prototyping** {#lect5_rvis} 
 
-On day five, the student's prototypes were put to the test through a race against other teams. The cars raced against one another to the finish line.  
+During the fifth lecture, the student's prototypes were put to the test through a race against other teams. The cars raced against one another to the finish line.  
 
 <div align="center">
 <iframe src="https://www.youtube.com/embed/Bhh89lDGy9w?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=0&autoplay=1"  width="560" height="315"  frameborder="0" allowfullscreen></iframe>
 </div>
+<div class="caption">
+    Students race their rolling platforms across the finish line. 
+</div>
 
 ##### **Lecture 6. Introduction to Electronics** {#lect6_rvis} 
 
-On day six, students learned a brief introduction to electronics and Arduino. From there, they were assigned to teams based on prior experience and learned how to use either a servo, potentiometer, or color sensor. Once they are able to operate different electronics, the students were assigned to teams to code an automatic, color-based ball sorter.
+During the sixth lecture, students learned a brief introduction to electronics and Arduino. From there, they were assigned to teams based on prior experience and learned how to use either a servo, potentiometer, or color sensor. Once they are able to operate different electronics, the students were assigned to teams to code an automatic, color-based ball sorter.
 
 <div align="center">
 <iframe src="https://www.youtube.com/embed/rL40gpbf-n8?rel=0&modestbranding=1&autohide=1&mute=1&showinfo=0&controls=1&autoplay=1"  width="315" height="560"  frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    Students perform a drop test on their rolling platforms. 
+    Students test their ball sorting code including control of a servo motor with a potentiometer, a color sensor for detecting the ball color (yellow or white), a distance sensor for counting the number of balls that have passed by, and control of a servo based on the detected color. 
 </div>
 
 <div class="d-flex justify-content-center">
@@ -106,7 +109,7 @@ On day six, students learned a brief introduction to electronics and Arduino. Fr
     </div>
 </div>
 <div class="caption">
-    Showing students how to use and code the servo motors. 
+    Me showing students how to use and code the servo motors. 
 </div>
 
 ##### **Lecture 7 - 9. Concept Integration** {#lect79_rvis} 
@@ -146,8 +149,6 @@ During the final lecture, the class was opened up to the greater community to ob
 <div class="caption">
     Final words to the greater community (left) and the students (right) during the final lecture
 </div>
-
-<h4 id="pcontr_rvis" style="text-align: center;">Personal Contributions</h4>
 
 <h4 id="fdbk_rvis" style="text-align: center;">Feedback</h4>
 > "Since I want to pursue a technical field in the future, [this experience] really helped me realize how much passion I have for [robotics]...[it's been] amazing" -[Mataab, student](https://youtu.be/BHnCiomtbUE?t=81)
