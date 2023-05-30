@@ -3,8 +3,8 @@ layout: page
 title: Stop-Rotor Aircraft
 description: a project with no image
 img:
-importance: 4
-category: work
+importance: 1
+category: Graduate Work
 ---
 
 Every project has a beautiful feature showcase page.

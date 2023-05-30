@@ -3,8 +3,8 @@ layout: page
 title: Fracture Behaviors of Polymer Thin-Films
 description: This work was performed while I was an undergraduate researcher in Darren Lipomi's lab at the University of California, San Diego and was performed under Mohammed Alkhadra. 
 img: assets/img/12.jpg
-importance: 1
-category: work
+importance: 3
+category: Undergraduate Work
 ---
 
 Every project has a beautiful feature showcase page.

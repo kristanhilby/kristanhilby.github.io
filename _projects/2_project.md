@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Semiconducting Conjugation Break Spacers
+title: Influence of Semiconducting Conjugation Break Spacers
 description: a project with a background image
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 4
+category: Undergraduate Work
 ---
 
 Every project has a beautiful feature showcase page.
