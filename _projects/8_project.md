@@ -4,7 +4,7 @@ title: photography
 description: The following are some of the best photos in my collection
 img:
 importance: 4
-category: hobbies
+category: Hobbies
 ---
 
 Every project has a beautiful feature showcase page.

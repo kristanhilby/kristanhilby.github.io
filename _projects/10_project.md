@@ -1,13 +1,12 @@
 ---
 layout: page
-title: travel + hiking
-description: The following is a non-exhaustive list of my travels over the past couple of years
+title: Two player pinball machine
+description: The following are some of the best photos in my collection
 img:
 importance: 4
-category: Hobbies
+category: Course Projects
 ---
 
-In my free time, I enjoy traveling and hiking. 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
