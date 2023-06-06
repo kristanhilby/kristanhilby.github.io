@@ -20,7 +20,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<iframe src="https://giphy.com/embed/SEwIQnjGOhuSpIEuQz" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SEwIQnjGOhuSpIEuQz">via GIPHY</a></p>
+<iframe src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZlMzQ1NGRlNTJjOWYwODY3ZjlmODI3ZjQ3YzNjOThiNGM1NmQzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SEwIQnjGOhuSpIEuQz/giphy.gif" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZlMzQ1NGRlNTJjOWYwODY3ZjlmODI3ZjQ3YzNjOThiNGM1NmQzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SEwIQnjGOhuSpIEuQz/giphy.gif">via GIPHY</a></p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
