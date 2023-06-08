@@ -5,6 +5,11 @@ description: Evaluation of electrolysis of water as a method for untethered pneu
 img: assets/img/Projects/Electrolysis/theory.png
 importance: 3
 category: Graduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 <h4 id="overview" style="text-align: center;">Motivation</h4>
@@ -62,7 +67,7 @@ The following notation and constants are used in describing this project:
 The theoretical efficiency for PEM driven pneumatic actuation required the theoretical evaluation of several values. Namely, the electrical energy into the system to drive electrolysis, the electrical energy out of the system from fuel cell operation, and the mechanical work out of the system due to pressurization of the generated gasses. In other words, the theoretical round trip efficiency (i.e., from electrical energy to mechanical work) is defined as the following first law efficiency:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-5 mt-7 mt-md-0">
+    <div class="col-sm-6 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/rt_efficiency.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -74,7 +79,7 @@ The theoretical efficiency for PEM driven pneumatic actuation required the theor
 The maximum round trip efficiency will occur when the electrical energy into the system is minimized. As such, the minimum electrical energy required to pressurized a hydrogen reservoir can be found by evaluating the total change in Gibbs free energy of the system. The total change in Gibbs free energy of the system can be found by integrating a differential change in the Gibbs free energy. Performing the integration yields the following result:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-5 mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/gibbsfree.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -93,7 +98,7 @@ The maximum round trip efficiency will occur when the electrical energy out of t
 Finally, the maximum round trip efficiency will occur when the mechanical work out of the system is maximized. Assuming isentropic expansion of the stored gas from the compressed state _(T, p)_ to ambient pressure _p0_ yields the following maximum work:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-6 mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/workmax.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -106,7 +111,7 @@ Finally, the maximum round trip efficiency will occur when the mechanical work o
 Populating the efficiency equation with the derived values, and simplifying, yields the following equation for maximum round trip efficiency: 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-6 mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/rt_efficiency_max.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -121,7 +126,7 @@ Two non-dimensional groups determine the maximum theoretical efficiency:
 Therefore, for the PEM system, the maximum round trip efficency is purely a function of the pressure. Graphing up to 1 MPa, the typical range of interest for soft robots, yields the following result:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-6 mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/rt_efficiency_max_graph.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -133,7 +138,7 @@ Therefore, for the PEM system, the maximum round trip efficency is purely a func
 Adding efficiency metrics to all of the above values provides the following relationship between the efficiency of the electrolyzer and fuel cell on the round trip efficiency at 1 MPa (assuming an efficiency of unity for the actuator)
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-6 mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Electrolysis/theory.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

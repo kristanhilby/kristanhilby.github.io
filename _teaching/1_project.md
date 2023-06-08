@@ -4,29 +4,21 @@ title: American University of Bahrain (AUBH)
 description: Visiting Instructor
 img: assets/img/MAX_2402.jpg
 importance: 1
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 category: Prior Teaching Experience
 ---
-<h4 style="text-align: center;">Page Contents</h4>
-
-[Course Overview & Description](#cod)
-   * [Lecture 1](#lect1_aubh)
-   * [Lecture 2](#lect2_aubh)
-   * [Lecture 3](#lect3_aubh)
-   * [Lecture 4 - 5](#lect45_aubh)
-   * [Lecture 6 - 7](#lect67_aubh)
-   * [Lecture 8](#lect8_aubh)
-   * [Lecture 9](#lect9_rvis)
-   * [Lecture 10](#lect10_rvis)
-
-[Student Feedback](#fdbk)
-
 
 <h4 id="cod" style="text-align: center;">Course Overview & Description</h4>
 At the American University of Bahrain (AUBH), I taught a two week course titled "Robotics from Scratch" to 25 college-level students raning from freshman to seniors. During the course, students received a comprehensive introduction to robotics and prototyping. Using their skills, they designed, prototyped, cnstructed, and controlled robot arms from conception to completion. The final task was to identify and sort colored LEGO bricks. 
 
 The course was broken down into the following lectures:
 
-##### **Lecture 1. Introduction to Rapid Prototyping and Computer Aided Design (CAD)** {#lect1_aubh} 
+##### **Lecture 1** {#lect1_aubh} 
+###### **Introduction to Rapid Prototyping and Computer Aided Design (CAD)**
 
 During this lecture, students formed groups and rapidly prototyped ideas for robot arms. In the second half of the lecture, they received a hands on introduction to Fusion 360. 
 
@@ -49,12 +41,13 @@ During this lecture, students formed groups and rapidly prototyped ideas for rob
 </div>
 
 
-##### **Lecture 2. Introduction to CAD Assemblies and Laser Machining** {#lect2_aubh} 
+##### **Lecture 2** {#lect2_aubh} 
+###### **Introduction to CAD Assemblies and Laser Machining** 
 
  During this lecture, students returned to the initial introduction to Fusion 360, but extended their knowledge to include CAD addemblies. In the latter half of the course, students learned the theoretical process for laser machining, as well as a hands on introduction to file generation, safety, and using a laser cutter. 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/AUBH/lecture2/MAX_2383.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -62,20 +55,23 @@ During this lecture, students formed groups and rapidly prototyped ideas for rob
     Overview of the CAD assemblies lecture. 
 </div>
 
-##### **Lecture 3. Introduction to 3D Printing** {#lect3_aubh} 
+##### **Lecture 3** {#lect3_aubh} 
+###### **Introduction to 3D Printing**
 
 During this lecture, students learned about the various types of 3D printing, how to generate and design for 3D printing, and had the opportunity to turn some of their parts from the first lecture into a 3D printed part. 
 
-##### **Lecture 4 and Lecture 5. Project Time** {#lect45_aubh} 
+##### **Lecture 4 & 5** {#lect45_aubh} 
+###### **Project Time**
 
 During these two lectures, students had the time to work in their teams on their designs by refining their CAD models, as well as go through a few prototyping interations using laser machning and 3D printing tools. 
 
-##### **Lecture 6 and Lecture 7. Introduction to Electronics** {#lect67_aubh} 
+##### **Lecture 6 & 7** {#lect67_aubh}
+###### **Introduction to Electronics**  
 
 During these two lectures, students learned about arduino, different types of motors and drivers, power supplies, oscilloscopes, breadboards, and programming. 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/AUBH/lecture6/MAX_2441.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -83,11 +79,13 @@ During these two lectures, students learned about arduino, different types of mo
     One student testing the motor control on the robot arm 
 </div>
 
-##### **Lecture 8. Introduction to Artificial Intelligence** {#lect8_aubh} 
+##### **Lecture 8** {#lect8_aubh} 
+###### **Introduction to Artificial Intelligence** 
 
 During this lecture, students received a brief overview of the field of artificial intelligence. Topics included machine learning, what is a neural network, what does training a neural network mean, computer vision, and natural language processing. Though not exhaustive, the students received a brief overview into a variety of popular topics. 
 
-##### **Lecture 9. Debugging and Final Testing** {#lect9_aubh} 
+##### **Lecture 9** {#lect9_aubh} 
+###### **Debugging and Final Testing** 
 
 The final lecture before the competition was left for students to work in their teams and with the instructors to wrap up their robot arms. 
 
@@ -103,7 +101,8 @@ The final lecture before the competition was left for students to work in their 
     Teams working together to make the finishing touches to their robotic arm.
 </div>
 
-##### **Lecture 10. Showcase and Competition Day** {#lect10_aubh} 
+##### **Lecture 10** {#lect10_aubh} 
+###### **Showcase and Competition Day**
 
 During the final lecture, students competed to sort LEGO bricks as fast as possible. 
 

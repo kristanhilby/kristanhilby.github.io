@@ -4,6 +4,11 @@ title: Machine Learning System Dynamics
 description: A course aimed at teaching various methods for deriving system dynamics, with a special emphasis on machine learning methods
 importance: 3
 category: Proposed Coursework
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ### Course Motivation

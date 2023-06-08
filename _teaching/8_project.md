@@ -4,6 +4,11 @@ title: Renaissance Engineering in the Modern Era
 description: A course aimed at teaching the different thought process and tools for interdisciplinary engineering
 importance: 3
 category: Proposed Coursework
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ### Course Motivation

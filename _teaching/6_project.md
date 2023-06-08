@@ -3,17 +3,14 @@ layout: page
 title: 2.131 Advanced Instrumentation and Measurement
 description: Teaching Assitant (MIT)
 img: assets/img/2131_CourseDetails.png
-importance: 1
+importance: 5
 category: Prior Teaching Experience
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
-
-[Course Description](#descript_2131)
-
-[Personal Contributions](#percont_2131)
-
-[Student Feedback](#fdbk_2131)
-
-[Lessons Learned](#lesslearn_2131)
 
 <h4 id="descript_2131" style="text-align: center;">Course Description</h4>
 

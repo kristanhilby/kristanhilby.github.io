@@ -5,6 +5,11 @@ description: Transmission of touch between haptic glove and robot arm
 img:
 importance: 2
 category: Undergraduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 Every project has a beautiful feature showcase page.

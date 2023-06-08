@@ -4,6 +4,11 @@ title: Collaborative Negotiation
 description: A course aimed at teaching negotiation skills for yielding the best results
 importance: 3
 category: Proposed Coursework
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ### Course Motivation

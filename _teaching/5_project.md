@@ -4,6 +4,11 @@ title: Leading Diverse Teams
 description: A course aimed to equip the next generation of technical leaders for understandiing, fostering, and harnessing the power of diverse teams
 importance: 3
 category: Proposed Coursework
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ### Course Motivation

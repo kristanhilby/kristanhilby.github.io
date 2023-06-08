@@ -8,7 +8,7 @@ giscus_comments: true
 related_posts: true
 toc:
   beginning: true
-category: Prior Teaching Experience
+category: Fake Category
 ---
 This post shows how to add a table of contents in the beginning of the post.
 
