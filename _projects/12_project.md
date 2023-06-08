@@ -5,6 +5,11 @@ description: Data-free training using the principle of least action
 img:
 importance: 2
 category: Graduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 Every project has a beautiful feature showcase page.

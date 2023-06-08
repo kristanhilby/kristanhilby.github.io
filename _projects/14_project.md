@@ -5,6 +5,11 @@ description: Roll-Pitch-Yaw Gimbal
 img: assets/img/Projects/Testingapparatus/TestingApparatus.png
 importance: 2
 category: Graduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: lefts
 ---
 
 <h4 id="overview" style="text-align: center;">Motivation</h4>
@@ -28,7 +33,7 @@ The primary contribution of this work was an open-source design of the gimbal sy
 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/Testingapparatus/bearing.png" title="bearing_design" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

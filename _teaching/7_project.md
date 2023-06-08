@@ -4,6 +4,11 @@ title: Communication for Technical Leaders
 description: A course that aims to empower the next generation of leaders to communicate with clarity, confidence, and impact.
 importance: 3
 category: Proposed Coursework
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 ### Course Motivation

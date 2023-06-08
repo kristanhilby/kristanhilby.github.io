@@ -5,6 +5,11 @@ description: Evaluation of origami-inspired, large elongation reconfigurable sof
 img: assets/img/Projects/RSR/MainPhoto_v2.png
 importance: 2
 category: Graduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 <h4 id="overview" style="text-align: center;">Motivation</h4>

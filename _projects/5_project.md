@@ -5,13 +5,18 @@ description: Reversible morphing airfoil
 img: assets/img/Projects/MorphingAirfoil/systemrendering.png
 importance: 2
 category: Graduate Work
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
 
 <h4 id="overview" style="text-align: center;">Motivation</h4>
 Morphing airfoils, which possess the ability to change shape during flight, offer the potential to improve the performance envelope and potentially extend the optimal aerodynamic performance of an aircraft across a wider range of flight conditions. This becomes increasingly important when applications require optimal efficiency across all flight regimes, operate across a wider range of speeds or environments, or require a large degree of maneuverability. Traditionally, morphing airfoils have been broken down into two classes: camber morphing and thickness adjusting. Camber morphing, shown below, changes the camber line of the airfoil, which can lead oto increased aerodynamic efficiency by delaying boundary layer separation. 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/cambermorphing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -22,7 +27,7 @@ Morphing airfoils, which possess the ability to change shape during flight, offe
 While camber morphing is more common, thickness morphing, which changes the overall thickness of an airfoil while keeping the camber constant, has been shown to change the laminar separation bubble and traling edge flow separation characteristics, providing the potential to incraese wing efficiency (i.e., L/D ratio) and decrease the viscous drag on the wing. The following is an example of a thickness morphing airfoil:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/thicknessmorphing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,7 +38,7 @@ While camber morphing is more common, thickness morphing, which changes the over
 While exploring stop-rotor aircraft designs, one issue that emerged (which is described in further detail on the [Stop-Rotor Aircraft Page]()) is the conflicting airfoil directionality between vertical take off and langing (VTOL) and forward flight modes, as shown here:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/airfoil_directionality.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -44,7 +49,7 @@ While exploring stop-rotor aircraft designs, one issue that emerged (which is de
 The conflicting airfoil directionality necessitated the emergence of a new type of morphing airfoil -- the reversible morphing airfoil, which reverses the direction of the leading and trailing edge, as shown here:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/reversiblemorphing.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -59,7 +64,7 @@ The conflicting airfoil directionality necessitated the emergence of a new type 
 3. Determination of the maximum aerodyanmic force
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-7 mt-7 mt-md-0">
+    <div class="col-sm mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/systemrendering.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -87,7 +92,7 @@ The flexible strip element was inspired by the roll up chair designed by Uros Vi
 The actuation component serves to transmit force from an electric motor to the flexible strip, as well as transmit aerodynamic loads from the flexible strip back to the base. The motor was chosen to be non-backdriveable, meaning motion can only be transmitted from the input to the output, to ensure that energy is not being expended to hold the system in the transformed state. 
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm-6 mt-7 mt-md-0">
+    <div class="col-sm-9 mt-7 mt-md-0">
         {% include figure.html path="assets/img/Projects/MorphingAirfoil/transmissionmechanism.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

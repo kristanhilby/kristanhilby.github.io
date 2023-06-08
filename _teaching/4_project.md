@@ -3,15 +3,14 @@ layout: page
 title: 6.9970 Academic Job Search
 description: Course Aide
 img: assets/img/69970_CourseAide.png
-importance: 1
+importance: 6
 category: Prior Teaching Experience
+categories: sample-posts toc sidebar
+giscus_comments: true
+related_posts: false
+toc:
+  sidebar: left
 ---
-
-[Course Description](#descript_69970)
-
-[Personal Contributions](#percont_69970)
-
-[Lessons Learned](#lesslearn_69970)
 
 <h4 id="descript_69970" style="text-align: center;">Course Description</h4>
 
