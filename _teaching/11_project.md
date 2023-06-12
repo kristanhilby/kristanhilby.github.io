@@ -22,7 +22,7 @@ toc:
 >
 >[Bilab Website](https://bioinstrumentation.mit.edu/mica.html)
 
-The MICA initiative encompasses a standardized framework of instrumentation crafted to facilitate experiential learning across a multitude of principles. Within the academic context, MICA has been successfully employed in the instructional setting of the esteemed [2.131 Advanced Instrumentation and Measure]({% link _teaching/6_project.md %}) course at MIT, thereby affording students the invaluable prospect of acquiring knowledge through active participation and concurrently contributing to the advancement of the program itself.
+The MICA initiative encompasses a standardized framework of instrumentation crafted to facilitate experiential learning across a multitude of principles. Within the academic context, MICA has been successfully employed in the instructional setting of the esteemed [2.131 Advanced Instrumentation and Measurement]({% link _teaching/6_project.md %}) course at MIT, thereby affording students the invaluable prospect of acquiring knowledge through active participation and concurrently contributing to the advancement of the program itself.
 
 <h4 id="percont_2131" style="text-align: center;"> Personal Contributions</h4>
 
@@ -39,7 +39,7 @@ I have personally worked to develop the following MICA setups:
     Photorealistic rendering of the developed MICA Reversible PEM Fuel Cell apparatus.
 </div>
 
-##### Working Principle
+##### Working Principle {#pem_workprin}
 
 This apparatus includes a PEM that utilizes the following electrolysis reaction to use electricity to turn liquid water into hydrogen and oxygen gas:
 
@@ -54,7 +54,7 @@ This apparatus includes a PEM that utilizes the following electrolysis reaction 
 
 Once the voltage source is removed, the membrane will spontaneously perform the reverse of the previous reaction, turning hydrogen and oxygen gas into liquid water, while generating electricity. 
 
-##### Apparatus Instrumentation
+##### Apparatus Instrumentation {#pem_appins}
 
 The developed apparatus demonstrates the capablity of a PEM to perform both the forward electrolysis reaction, as well as the reverse fuel cell reaction using a [Quattro Electrolyzer](https://www.google.com/search?client=safari&rls=en&q=fuel+cell+store+quattro+electrolyzer&ie=UTF-8&oe=UTF-8). Throughout operation, electrical energy flow is observed and recorded using the [Tinkerforge Voltage/Current Bricklet 2.0](https://www.google.com/search?client=safari&rls=en&q=tinkerforge+voltage+current+2.0&ie=UTF-8&oe=UTF-8). An electrical load is applied with a variable potentiometer. 
 
@@ -62,7 +62,7 @@ Furthermore, the apparatus incorporates a [Tinkerforge DC Brick](https://www.tin
 
 <h4 id="mica_actuator" style="text-align: center;">Actuator Characterization</h4>
 
-##### Working Principle
+##### Working Principle {#act_workprin}
 Actuator characterization plays a crucial role in assessing the suitability of actuators for specific applications and serves as a fundamental step towards their widespread implementation. Traditionally, actuator tests have been classified into two categories: isotonic tests, which involve the actuator moving under tension, and isometric tests, where the actuator is held at a constant length. Isotonic tests focus on evaluating metrics such as elongation or contraction percentage, work density, power density, and bandwidth. Conversely, the main parameter of interest in isometric tests is the maximum force output achievable at a given displacement. These quantifiable parameters collectively provide designers with valuable insights into the compatibility of an actuator with their specific system, enabling them to make informed decisions regarding its appropriateness and functionality.
 
 <div class="d-flex justify-content-center">
@@ -74,7 +74,7 @@ Actuator characterization plays a crucial role in assessing the suitability of a
     Actuator Characterization Apparatus.
 </div>
 
-##### Apparatus Instrumentation
+##### Apparatus Instrumentation {#act_appins}
 
 The actuator characterization apparatus enables the execution of both isometric and isotonic testing methodologies. In isotonic tests, the apparatus employs a linear variable differential transformer (LVDT) to accurately measure the displacement of the actuator. Additionally, a load cell captures the force exerted by the actuator during the experiment. To monitor the energy consumption of the actuator throughout the testing process, an energy monitor is incorporated into the apparatus.
 
@@ -82,7 +82,7 @@ For isometric testing, the actuator is connected at one end of a linear actuator
 
 <h4 id="mica_doppler" style="text-align: center;">Doppler Effects</h4>
 
-##### Working Principle
+##### Working Principle {#doppler_workprin}
 Doppler shift, a fundamental concept in physics and wave phenomena, describes the alteration in the frequency or wavelength of a wave as observed by an observer in motion relative to the source of that wave. The Doppler effect manifests in everyday experiences, such as the change in pitch of a passing siren or the shifting colors of celestial objects. By understanding the principles of Doppler shift, scientists and researchers can extract valuable information about the velocity, direction, and properties of moving objects or phenomena. Doppler shift is characterized through the following equation: 
 
 <div class="d-flex justify-content-center">
@@ -95,11 +95,11 @@ Doppler shift, a fundamental concept in physics and wave phenomena, describes th
 </div>
 
 
-##### Apparatus Instrumentation
+##### Apparatus Instrumentation {#doppler_appins}
 
 <h4 id="mica_cooking" style="text-align: center;">Cooking Method Efficiency</h4>
 
-##### Working Principle
+##### Working Principle {#cooking_workprin}
 
 Cooking efficiency plays a pivotal role in determining the overall cost of cooking, encompassing factors such as the time required to cook, energy expenditure, and even the health risks associated with the cook. Four main methods of cooking were identified: namely conduction, radiation, induction, and Joule heating. Conduction involves the transfer of heat through direct contact between the cooking vessel and the food. Radiation refers to the emission and absorption of electromagnetic waves, such as infrared radiation, by the food and cooking surfaces. Induction cooking utilizes magnetic fields to generate heat directly within the cookware, thus minimizing energy loss. Joule heating, on the other hand, involves the conversion of electrical energy into heat as it passes through the resistance of the cooking medium.
 
@@ -117,7 +117,7 @@ By conducting a comprehensive assessment of the efficiencies of these cooking me
     Overview of the developed cooking methods apparatus with (left) the real set up and (right) the CAD model
 </div>
 
-##### Apparatus Instrumentation
+##### Apparatus Instrumentation {#cooking_appins}
 The apparatus for evaluating the different cooking techniques is comprised of four sample tubes, each equipped with a different method for cooking. In this apparatus, conduction heating is performed by directly contacting the test material with the heating element, which allows for direct heat flow from the heating element to the test material. Radiation heating is performed by  heating a coil at a distance from the test material, which then radiates out heatfor the test material to absorb. Induction heating is performed by running an electrical current through a coil around the material, generating heat in the material itself. Since foods generally do not contain a ferromagnetic material, an iron wire, which acts as the heated element, is inserted through the center of the sample. Joule heating is performed by running an electrical current directly through the material such that the material’s inherent resistance causes heat generation.
 
 A linear stage and thermal camera are mounted behind the test samples to monitor the cooking rate and energy distribution over time. Efficiency is calculated by monitoring the electrical energy going into operating the heating mechanism and comparing to the theoretical value of energy needed to cook the sample. The cooking process was monitored using impedance analysis. 

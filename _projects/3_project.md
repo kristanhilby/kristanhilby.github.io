@@ -12,7 +12,7 @@ toc:
   sidebar: left
 ---
 
-<h4 id="overview" style="text-align: center;">Motivation</h4>
+<h4 id="motivation" style="text-align: center;">Motivation</h4>
 
 Pneumatically actuated soft robots offer advantages such as safe human-robot interactions, adaptability to dynamic environments, lightweight construction, high power output, smooth motion, and environmentally friendly actuation. However, the traditional reliance on heavy, noisy, tethered, and inefficient air compressors has been a drawback. To address this, researchers have explored various untethered methods for pneumatic actuation. 
 
@@ -58,11 +58,11 @@ The chosen metrics, maximum pressure, flow rate, efficiency, and permeability, a
 
 4. Permeability: qualitative metric for measuring the compatibility of a pressurized media with an actuator. If the pneumatic actuator is permeable to the pressurized media, further losses will be introduced into the system that ultimately reduce the round-trip efficiency. Permeability is indirectly measured through comparing the possible actuator cycles from a given pressure and volume of gas.
 
-<h4 id="contributions" style="text-align: center;">Notation & Constants</h4>
+<h4 id="notation" style="text-align: center;">Notation & Constants</h4>
 The following notation and constants are used in describing this project:
 
 
-<h4 id="methods" style="text-align: center;">Theory</h4>
+<h4 id="theory" style="text-align: center;">Theory</h4>
 
 The theoretical efficiency for PEM driven pneumatic actuation required the theoretical evaluation of several values. Namely, the electrical energy into the system to drive electrolysis, the electrical energy out of the system from fuel cell operation, and the mechanical work out of the system due to pressurization of the generated gasses. In other words, the theoretical round trip efficiency (i.e., from electrical energy to mechanical work) is defined as the following first law efficiency:
 
@@ -166,4 +166,4 @@ Using the above experimental design, it was determined that the PEM system could
 
 Overall, it was calculated that approximately 12.5% of the hydrogen leaked from the McKibben fiber. 
 
-<h4 id="publication" style="text-align: center;">Relevant Citations</h4>
+<h4 id="citation" style="text-align: center;">Relevant Citations</h4>

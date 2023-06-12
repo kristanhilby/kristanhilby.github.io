@@ -117,7 +117,7 @@ During the sixth lecture, students learned a brief introduction to electronics a
 After learning about Arduino and electronics, students worked to integrate all their skills (prototyping with laser cutter and 3D printers, CAD, and electronics) to build and control the following robot manipulator:
 
 <div class="d-flex justify-content-center">
-    <div class="col-sm mt-7 mt-md-0">
+    <div class="col-sm-8 mt-7 mt-md-0">
         {% include figure.html path="assets/img/RVIS/overview/overview.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -158,4 +158,4 @@ During the final lecture, the class was opened up to the greater community to ob
 
 > "This workshop has renewed my interest in engineering... My time in the workshop has been a great experience and something I will always remember." -[Duaji, student](https://www.linkedin.com/pulse/rvis-massachusetts-institute-technology-mit-host-successful-wehbe/?trackingId=Ro0xORg%2BTxOk8zTJlCu49w%3D%3D) 
 
-<h4 id="overview_ch" style="text-align: center;">Lessons Learned</h4>
+<h4 id="lessonslearned_ch" style="text-align: center;">Lessons Learned</h4>

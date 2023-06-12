@@ -12,7 +12,7 @@ toc:
   sidebar: left
 ---
 
-<h4 id="overview" style="text-align: center;">Motivation</h4>
+<h4 id="motivation" style="text-align: center;">Motivation</h4>
 Morphing airfoils, which possess the ability to change shape during flight, offer the potential to improve the performance envelope and potentially extend the optimal aerodynamic performance of an aircraft across a wider range of flight conditions. This becomes increasingly important when applications require optimal efficiency across all flight regimes, operate across a wider range of speeds or environments, or require a large degree of maneuverability. Traditionally, morphing airfoils have been broken down into two classes: camber morphing and thickness adjusting. Camber morphing, shown below, changes the camber line of the airfoil, which can lead oto increased aerodynamic efficiency by delaying boundary layer separation. 
 
 <div class="d-flex justify-content-center">
@@ -72,7 +72,7 @@ The conflicting airfoil directionality necessitated the emergence of a new type 
     Rendering of the proposed reversible airfoil mechanism. 
 </div>
 
-<h4 id="overview" style="text-align: center;">Morphing Airfoil Design</h4>
+<h4 id="design" style="text-align: center;">Morphing Airfoil Design</h4>
 
 The design of the morphing airfoil can be broken down into three components:
 
@@ -125,4 +125,4 @@ The base of the morphing airfoil serves to hold together the flexible strip and 
 
 Experimental characterization yielded the determination that the maximum load each rib can withstand in compression is 150 N and after 1,000 cycles, minimal force softening is exhibited. 
 
-<h4 id="moi" style="text-align: center;">Relevant Citations</h4>
+<h4 id="citation" style="text-align: center;">Relevant Citations</h4>

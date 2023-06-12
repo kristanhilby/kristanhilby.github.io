@@ -12,8 +12,10 @@ toc:
   sidebar: lefts
 ---
 
-<h4 id="overview" style="text-align: center;">Motivation</h4>
+<h4 id="motivation" style="text-align: center;">Motivation</h4>
 This gimbal was developed to serve as a platform for evaluating the stability and to perform testing in a safe manner on experimental drones. Particularly, stability in roll, pitch, and yaw were of primary concern. In addition to evaluating the stability of the drone, the apparatus was also configured for performing and validating system identification on the drone. 
+
+# TO DO: Add video of drone crash
 
 <h4 id="contributions" style="text-align: center;">Project Contributions & Overview</h4>
 
@@ -29,8 +31,9 @@ This gimbal was developed to serve as a platform for evaluating the stability an
 
 The primary contribution of this work was an open-source design of the gimbal system shown above. The files can be found here: [Link to Github](). 
 
-<h5 id="contributions" style="text-align: center;">Bearing Joint Design</h5>
+<h5 id="bearingdesign" style="text-align: center;">Bearing Joint Design</h5>
 
+One of the primary challenges in designing the testing rig was to reduce the friction in the gimbal and to ensure that the forces from the drone on the testing rig are adequately transferred between joints. To achieve low friction and adequate transfer, the following joint design was used:
 
 <div class="d-flex justify-content-center">
     <div class="col-sm mt-7 mt-md-0">
@@ -41,6 +44,8 @@ The primary contribution of this work was an open-source design of the gimbal sy
    Cross section of the bearing joints used in the design
 </div>
 
-<h5 id="contributions" style="text-align: center;">Proposed Upgrades</h5>
+As shown in the image, two 3D printed casings were used to inclose a [rotary thrust bearing](#TODO FIX LINK) that utilizes a bolt to transfer load between the two links in a low friction way. 
+
+<h5 id="upgrades" style="text-align: center;">Proposed Upgrades</h5>
 1. Reduce inertia of the linkages by using a lighter weight material or different construction
-2. 
+2. Explore different configurations for improving the space usage
