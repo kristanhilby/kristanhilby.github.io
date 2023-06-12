@@ -15,7 +15,7 @@ toc:
 <h4 id="motivation" style="text-align: center;">Motivation</h4>
 This gimbal was developed to serve as a platform for evaluating the stability and to perform testing in a safe manner on experimental drones. Particularly, stability in roll, pitch, and yaw were of primary concern. In addition to evaluating the stability of the drone, the apparatus was also configured for performing and validating system identification on the drone. 
 
-# TO DO: Add video of drone crash
+<image src="assets/img/Projects/Testingapparatus/youtube-video-gif.gif" alt="crash" width="450" /> 
 
 <h4 id="contributions" style="text-align: center;">Project Contributions & Overview</h4>
 
