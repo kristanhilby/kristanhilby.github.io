@@ -21,3 +21,6 @@ This research provides insights into the mechanical robustness and fracture beha
 <h4 id="overview" style="text-align: center;">Project Overview</h4>
 
 <h4 id="moi" style="text-align: center;">Metrics of Interest</h4>
+
+<h4 id="citations" style="text-align: center;">Relevant Citations</h4>
+{% reference Alkhadra2017 %}

@@ -126,3 +126,5 @@ The base of the morphing airfoil serves to hold together the flexible strip and 
 Experimental characterization yielded the determination that the maximum load each rib can withstand in compression is 150 N and after 1,000 cycles, minimal force softening is exhibited. 
 
 <h4 id="citation" style="text-align: center;">Relevant Citations</h4>
+
+{% reference Hilby2023 %}

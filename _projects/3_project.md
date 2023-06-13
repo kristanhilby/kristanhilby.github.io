@@ -167,3 +167,6 @@ Using the above experimental design, it was determined that the PEM system could
 Overall, it was calculated that approximately 12.5% of the hydrogen leaked from the McKibben fiber. 
 
 <h4 id="citation" style="text-align: center;">Relevant Citations</h4>
+{% reference Hilby2023_2 %}
+
+{% reference Hilby2021 %}

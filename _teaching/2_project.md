@@ -52,9 +52,20 @@ In the second lecture, students finished the introduction to CAD section learnin
 To apply the skills they learned, students were put into new groups and were tasked with ideating and creating a platform that rolls down a platform carrying a bottle of water and can withstand a drop test. They were given guidance on performing short bursts of prototyping sessions. 
 
 ##### **Lecture 3** {#lect3_rvis}
-######  **Introduction to Laser Machining**
+######  **Introduction to Laser Machining and Engineering Drawings**
 
-During this lectures, students learned the principle of laser machining, and were introduced to using the laser cutter safely in the lab space. To apply their knowledge students continued working on the rolling platform prototype from the last class, not including one laser cut parts. 
+During this lectures, students learned the principle of laser machining, were introduced to using the laser cutter safely in the lab space, and how to read and generate engineering drawings. 
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm mt-7 mt-md-0">
+        {% include figure.html path="assets/img/RVIS/lecture3/engineeringdrawings.png" title="lego" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Introduction to engineering drawings with a simple linkage example. 
+</div>
+
+To apply their knowledge students continued working on the rolling platform prototype from the last class, now including one laser cut part that was machined using an engineering drawing. 
 
 <div class="d-flex justify-content-center">
     <div class="col-sm mt-7 mt-md-0">
@@ -159,3 +170,7 @@ During the final lecture, the class was opened up to the greater community to ob
 > "This workshop has renewed my interest in engineering... My time in the workshop has been a great experience and something I will always remember." -[Duaji, student](https://www.linkedin.com/pulse/rvis-massachusetts-institute-technology-mit-host-successful-wehbe/?trackingId=Ro0xORg%2BTxOk8zTJlCu49w%3D%3D) 
 
 <h4 id="lessonslearned_ch" style="text-align: center;">Lessons Learned</h4>
+- To enhance student engagement with technically dense material, it is beneficial to build their passion around the subject matter (e.g., build a robot and play with it before learning kinematics)
+- Scaffolding the content for a broad range of experiences is challenging, but highly rewarding, 
+- Students who demonstrate rapid mastery of the material can contribute to the engagement of their peers by assuming teaching roles,
+- Implementing friendly competition proves to be an effective strategy for fostering student engagement.

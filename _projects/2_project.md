@@ -83,3 +83,6 @@ The aforementioned observations can be inferred from the following graphs.
 </div>
 
 <h4 id="citations" style="text-align: center;">Relevant Citations</h4>
+{% reference Melenbrink2019 %}
+
+{% reference Melenbrink2018 %}

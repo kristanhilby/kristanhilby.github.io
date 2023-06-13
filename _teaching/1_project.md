@@ -18,9 +18,9 @@ At the American University of Bahrain (AUBH), I taught a two week course titled 
 The course was broken down into the following lectures:
 
 ##### **Lecture 1** {#lect1_aubh} 
-###### **Introduction to Rapid Prototyping and Computer Aided Design (CAD)**
+###### **Introduction to Rapid Prototyping and Computer Aided Design (CAD) and Engineering Drawings**
 
-During this lecture, students formed groups and rapidly prototyped ideas for robot arms. In the second half of the lecture, they received a hands on introduction to Fusion 360. 
+During this lecture, students formed groups and rapidly prototyped ideas for robot arms. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,6 +40,16 @@ During this lecture, students formed groups and rapidly prototyped ideas for rob
     Initial prototypes from each of the teams for their robotic arms, made during the first lecture.
 </div>
 
+In the second half of the lecture, the students received a hands on introduction to Fusion 360 by recreating an engineering drawing. 
+
+<div class="d-flex justify-content-center">
+    <div class="col-sm mt-7 mt-md-0">
+        {% include figure.html path="assets/img/AUBH/lecture1/engdrawing.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Engineering drawing of a LEGO that students recreated in the Fusion 360 CAD tutorial. 
+</div>
 
 ##### **Lecture 2** {#lect2_aubh} 
 ###### **Introduction to CAD Assemblies and Laser Machining** 
@@ -52,7 +62,7 @@ During this lecture, students formed groups and rapidly prototyped ideas for rob
     </div>
 </div>
 <div class="caption">
-    Overview of the CAD assemblies lecture. 
+    Students engaging in the CAD assemblies lecture. 
 </div>
 
 ##### **Lecture 3** {#lect3_aubh} 
@@ -127,3 +137,6 @@ During the final lecture, students competed to sort LEGO bricks as fast as possi
 > "One of the most exciting aspects of the workshop was the hands-on experience with the robot arms. We had the opportunity to program them to perform a variety of tasks, from simple movements to more complex operations like object recognition and manipulation. This workshop has further fueled my passion for robotics and technology. I am grateful to MIT and the American University of Bahrain for this amazing opportunity" -[Ebrahim Almalki](https://www.linkedin.com/posts/ebrahim-almalki-13900020b_technology-learning-experience-activity-7028240519751188480-MrvC?utm_source=share&utm_medium=member_desktop) 
 
 <h4 id="overview_ch" style="text-align: center;">Lessons Learned</h4>
+- Early encouragement of struggle and failure fosters a problem-solving mindset and resilience in students,
+- Sometimes, students have as much to teach as the teacher
+- Collaboration between students allows them to combine knowledge, perspective, and ideas, which leads to a deeper understanding of and improvement in learning outcomes. 

@@ -30,7 +30,7 @@ This gimbal was developed to serve as a platform for evaluating the stability an
     CAD rendering of the designed drone testing rig for evaluating stability in roll, pitch, and yaw (left), 
 </div>
 
-The primary contribution of this work was an open-source design of the gimbal system shown above. The files can be found here: [Link to Github](). 
+The primary contribution of this work was an open-source design of the gimbal system shown above. The files can be found on the [drone-testing-rig](https://github.com/kristanhilby/drone-testing-rig.git) Github repository. 
 
 <h5 id="bearingdesign" style="text-align: center;">Bearing Joint Design</h5>
 
