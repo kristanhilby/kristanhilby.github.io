@@ -3,7 +3,7 @@ layout: page
 title: Instrumented Door and Drawer for Robot Grasp Evaluation
 description: Oregon State University
 img: assets/img/Projects/instrumenteddoordrawer/overview.png
-importance: 2
+importance: 3
 category: Undergraduate Work
 categories: sample-posts toc sidebar
 giscus_comments: true

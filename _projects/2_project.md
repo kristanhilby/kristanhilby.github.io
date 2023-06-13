@@ -3,7 +3,7 @@ layout: page
 title: Influence of Semiconducting Conjugation Break Spacers
 description: Exploring mechanical and electrical influence of alkyll segments in conjugated materials
 img: assets/img/Projects/BreakSpacer/results.png
-importance: 4
+importance: 1
 category: Undergraduate Work
 categories: sample-posts toc sidebar
 giscus_comments: true
