@@ -265,7 +265,7 @@ display_tags: ['academic', 'life', 'misc'] # this tags will be dispalyed on the 
 scholar:
 
   last_name: [Hilby]
-  first_name: [Kristan, M.]
+  first_name: ["Kristan M.", "Kristan", "Kristan Muno", "K.M."]
 
   style: apa
   locale: en
