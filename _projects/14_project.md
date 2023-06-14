@@ -24,7 +24,8 @@ This gimbal was developed to serve as a platform for evaluating the stability an
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Projects/Testingapparatus/TestingApparatus.png" title="Testing Apparatus" class="img-fluid rounded z-depth-1" %}
     </div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZlMzQ1NGRlNTJjOWYwODY3ZjlmODI3ZjQ3YzNjOThiNGM1NmQzNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SEwIQnjGOhuSpIEuQz/giphy.gif" width="270" height="480" />
+    <div style="width:241px;max-width:100%;"><div style="height:0;padding-bottom:125.31%;position:relative;"><iframe width="241" height="302" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/7pdcm5"></iframe></div><p><a> </a></p></div>
+    
 </div>
 <div class="caption">
     CAD rendering of the designed drone testing rig for evaluating stability in roll, pitch, and yaw (left), 
