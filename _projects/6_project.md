@@ -4,7 +4,7 @@ title: Stop-Rotor Aircraft
 description: a project with no image
 img:
 importance: 1
-category: Graduate Work
+category: PhD Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

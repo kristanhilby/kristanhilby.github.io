@@ -4,7 +4,7 @@ title: Morphing Airfoil/Wing
 description: Reversible morphing airfoil
 img: assets/img/Projects/MorphingAirfoil/systemrendering.png
 importance: 2
-category: Graduate Work
+category: PhD Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

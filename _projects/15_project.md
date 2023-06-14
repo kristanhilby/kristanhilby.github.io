@@ -4,7 +4,7 @@ title: Drone Wing Fabrication
 description: Manufacturing the wings for the stop-rotor aircraft
 img: assets/img/Projects/wings/wing_final.jpg
 importance: 2
-category: Graduate Work
+category: PhD Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

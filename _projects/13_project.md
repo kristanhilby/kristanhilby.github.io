@@ -2,9 +2,9 @@
 layout: page
 title: Propeller System Identification
 description: Derived input-output relationship
-img:
+img: assets/img/Projects/propsystemid/propsystemid_overview.png
 importance: 2
-category: Graduate Work
+category: PhD Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

@@ -4,7 +4,7 @@ title: Reconfigurable Soft Robots (RSRs)
 description: Evaluation of origami-inspired, large elongation reconfigurable soft robot modules
 img: assets/img/Projects/RSR/MainPhoto_v2.png
 importance: 2
-category: Graduate Work
+category: Masters Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

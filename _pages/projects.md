@@ -5,8 +5,9 @@ permalink: /projects/
 description: A growing, non-exhaustive, collection of my projects to date.
 nav: true
 nav_order: 2
-display_categories: [Graduate Work, Undergraduate Work, Course Projects, Hobbies]
+display_categories: [PhD Work, Masters Work, Undergraduate Work, Course Projects, Hobbies]
 horizontal: false
+
 ---
 
 <!-- pages/projects.md -->

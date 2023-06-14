@@ -4,7 +4,7 @@ title: Untethered Pneumatic Actuation
 description: Evaluation of electrolysis of water as a method for untethered pneumatic actuation
 img: assets/img/Projects/Electrolysis/theory.png
 importance: 3
-category: Graduate Work
+category: Masters Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false

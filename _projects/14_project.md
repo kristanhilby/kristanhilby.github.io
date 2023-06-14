@@ -4,7 +4,7 @@ title: Drone Testing Rig
 description: Roll-Pitch-Yaw Gimbal
 img: assets/img/Projects/Testingapparatus/TestingApparatus.png
 importance: 2
-category: Graduate Work
+category: PhD Work
 categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false
