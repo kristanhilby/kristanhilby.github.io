@@ -176,9 +176,6 @@ collections:
   teaching:
     output: true
     permalink: /teaching/:path/
-  hobbies:
-    output: true
-    permalink: /hobbies/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -228,11 +225,6 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-maps
-
-maps:
-    google:
-      api_key: AIzaSyAe8otIapRqOEleXrnf7P0IJoitpxFbBbg
 
 # Sitemap settings
 defaults:
