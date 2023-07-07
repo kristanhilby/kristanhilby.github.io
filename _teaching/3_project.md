@@ -49,3 +49,6 @@ On the second day, workshop participants learned how to tranlate the paper sketc
 To exhibit the following steps, an example of extruding the Bahrain flag was covered in real time with the class. Participants were then instructed to create a model for the mug they had sketched the previous day. Wrapping up, participants were shown how to export files for laser machining and 3D printing. 
 
 <h4 id="lessonslearned_ch" style="text-align: center;">Lessons Learned</h4>
+- Even seemingly small interactions can have a huge impact on the perspective and trajectory of students
+- When you provide students with the appropriate tools, they can achieve incredible things
+- There is always a way, even with little resources, to make a learning experience valuable and impactful for students 

@@ -22,7 +22,7 @@ A clam shell mold type was chosen [why?]
 TODO: Add image showing clamshell molding process
 
 ##### Manufacturing
-The molds were CNC machined out of 6065 aluminum. Despite the potential thermal expansion of the mold, aluminum was still chosen due to its ability to withstand the requisite temperatures for the layup at a reasonable cost. The maximum thermal expansion of the aluminum was [ADD CALC](), which was deemed sufficient for this application. 
+The molds were CNC machined out of 6061 aluminum. Despite the potential thermal expansion of the mold, aluminum was still chosen due to its ability to withstand the requisite temperatures for the layup at a reasonable cost. The maximum thermal expansion of the aluminum was [ADD CALC](), which was deemed sufficient for this application. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-9 mt-3 mt-md-0">

@@ -29,12 +29,15 @@ As a TA for the course, I was responsible for the following:
 
 <h4 id="fdbk_2131" style="text-align: center;">Student Feedback</h4>
 
-> "Amazing TA who is very dedicated to helping students learn and is very accommodating" - Student 22248
+Taken from the anonymous course evaluations:
 
-> "Kristan was an excellent TA. She was approachable, responsive and helpful, and she managed the logistics of the class deftly" - Student 32951
+> "Amazing TA who is very dedicated to helping students learn and is very accommodating"
 
-> "Kristan was incredibly helpful and worked hard to make this class and the final projects happen... Thanks!" - Student 33016
+> "Kristan was an excellent TA. She was approachable, responsive and helpful, and she managed the logistics of the class deftly"
 
-> "Kristan is very organized, approachable, and responsive to questions and requests" - Student 44199
+> "Kristan was incredibly helpful and worked hard to make this class and the final projects happen... Thanks!"
+
+> "Kristan is very organized, approachable, and responsive to questions and requests"
 
 <h4 id="lesslearn_2131" style="text-align: center;">Lessons Learned</h4>
+- 

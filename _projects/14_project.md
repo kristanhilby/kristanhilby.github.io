@@ -9,7 +9,7 @@ categories: sample-posts toc sidebar
 giscus_comments: true
 related_posts: false
 toc:
-  sidebar: lefts
+  sidebar: left
 ---
 
 <h4 id="motivation" style="text-align: center;">Motivation</h4>

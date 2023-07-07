@@ -24,9 +24,7 @@ toc:
 
 The MICA initiative encompasses a standardized framework of instrumentation crafted to facilitate experiential learning across a multitude of principles. Within the academic context, MICA has been successfully employed in the instructional setting of the esteemed [2.131 Advanced Instrumentation and Measurement]({% link _teaching/6_project.md %}) course at MIT, thereby affording students the invaluable prospect of acquiring knowledge through active participation and concurrently contributing to the advancement of the program itself.
 
-<h4 id="percont_2131" style="text-align: center;"> Personal Contributions</h4>
-
-I have personally worked to develop the following MICA setups:
+I have developed the following MICA setups:
 
 <h4 id="mica_PEM" style="text-align: center;">Reversible Proton Exchange Membrane (PEM) Fuel Cell</h4>
 
@@ -94,8 +92,9 @@ Doppler shift, a fundamental concept in physics and wave phenomena, describes th
     Doppler Effect Relationship.
 </div>
 
-
 ##### Apparatus Instrumentation {#doppler_appins}
+
+The apparatus is instumented to observe the doppler effect by spinning a speaker and measuring the sound intensity and frequency spectrum. The rotating speaker is encapsulated in a 3D printed DC motor mount with the appropriate counter balance. The speaker is sent a continuous, single frequency signal, and microphones, integrated in the [Tinkerforge Sound Intensity Bricklet](https://www.tinkerforge.com/en/shop/sound-intensity-bricklet.html), placed at various locations in the apparatus detect the resulting sound level (in dB) and frequency spectrum. Finally, the entire apparatus is enclosed in acrylic to ensure the safety of the user.  
 
 <h4 id="mica_cooking" style="text-align: center;">Cooking Method Efficiency</h4>
 
