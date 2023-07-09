@@ -46,7 +46,7 @@ One of the primary challenges in designing the testing rig was to reduce the fri
    Cross section of the bearing joints used in the design
 </div>
 
-As shown in the image, two 3D printed casings were used to inclose a [rotary thrust bearing](#TODO FIX LINK) that utilizes a bolt to transfer load between the two links in a low friction way. 
+As shown in the image, two 3D printed casings were used to inclose a [flanged rotary bearing](https://www.amazon.com/gp/product/B085DRNJ6R/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) that utilizes a bolt to transfer load between the two links in a low friction way. 
 
 <h5 id="upgrades" style="text-align: center;">Proposed Upgrades</h5>
 1. Reduce inertia of the linkages by using a lighter weight material or different construction
