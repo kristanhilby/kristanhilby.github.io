@@ -34,7 +34,7 @@ The molds were CNC machined out of 6061 aluminum. Despite the potential thermal 
 </div>
 
 ##### Pre-Treatment
-To facilitate the release of the carbon fiber part from the mold, mold preparation and release were used. 
+To facilitate the release of the carbon fiber part from the mold, mold preparation and release were applied. The molds were first cleaned with isopropyl alcohol to remove any machining grease or dust. Once the mold dried, three layers of [Frekote FMS Industrial Mold Sealer](https://www.rockwestcomposites.com/shop/frekote-770nc?utm_source=google-ads&utm_medium=ppc&utm_campaign=Search%20-%20Ecommerce%20-%20DSA&utm_content=All%20Webpages&utm_ad=650511861007&utm_term=&matchtype=&device=c&GeoLoc=1018145&placement=&network=g&campaign_id=18133505211&adset_id=140829080376&ad_id=650511861007&gclid=Cj0KCQjwtamlBhD3ARIsAARoaEzkO1zUzccRbj5ARso8X0NZYYeAVPBKdrNfutawsQ84DFtI5Tk7FhkaAthaEALw_wcB) were applied, waiting 5 - 10 minutes between layers to ensure adequate drying. The final layer was allowed to dry for 20 minutes. 
 
 <h4 id="layup" style="text-align: center;">Layup</h4>
 
